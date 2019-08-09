@@ -1,5 +1,5 @@
 # Build and Release Folders
-node_modules
+node_modules/
 test.php
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
