@@ -1,0 +1,30 @@
+@import "variables";
+
+
+body, html {
+  margin: 0;
+  font-family: Helvetica;
+  height: 100%;
+  position: relative;
+  background: $light-grey;
+}
+
+
+#container {
+    width: 1100px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid $dark-grey;
+    background: $white;
+    border-radius: 5px;
+}
+
+h2 {
+    margin: 0;
+}
+
+
+span {
+    color: $dev;
+    font-style: italic;
+}
